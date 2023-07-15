@@ -1,5 +1,3 @@
-# TarjansAlgorithm
-Implementasi Algoritma Tarjans untuk mencari SCC dan bridge
 # Algoritma Tarjan untuk Pencarian SCC dan Bridge
 <h2 align="center">
    <a>Implementasi Algoritma Tarjan</a>
@@ -81,7 +79,7 @@ Ada beberapa jenis edges yang mungkin terdapat dalam suatu graf, yaitu:
     - axios: Digunakan untuk melakukan permintaan HTTP dari sisi klien.
     - @mui/material: Digunakan untuk melakukan styling pada kode frontend.
 
-> Note: The version of the libraries above is the version that we used in this project. You can use the latest version of the libraries.
+> Note:  You can use the latest version of the libraries.
 
 <a name="setup"></a>
 
@@ -119,7 +117,7 @@ Ada beberapa jenis edges yang mungkin terdapat dalam suatu graf, yaitu:
 ## Video Capture
 <nl>
 
-![TarjansAlgorithm Gif](https://github.com/rifqifarhansyah/CompresserString-WebApp/blob/main/img/textCompresser.gif?raw=true)
+![TarjansAlgorithm Gif](https://github.com/rifqifarhansyah/TarjansAlgorithm/blob/main/img/TarjansAlgorithm.gif?raw=true)
 
 <a name="screenshots"></a>
 
