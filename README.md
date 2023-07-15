@@ -17,7 +17,8 @@
 10. [Project Status](#project-status)
 11. [Room for Improvement](#room-for-improvement)
 12. [Acknowledgements](#acknowledgements)
-13. [Contact](#contact)
+13. [Reference](#reference)
+14. [Contact](#contact)
 
 <a name="general-information"></a>
 
@@ -168,6 +169,14 @@ Perbaikan yang dapat dilakukan pada program ini adalah:
 
 ## Acknowledgements
 - Terima kasih kepada Tuhan Yang Maha Esa
+
+<a name="reference">
+
+## Reference
+- MUI. @Mui/Material Documentation. https://mui.com/material-ui/react-popper/, diakses pada 13 Juli 2023.
+- Golang. Golang Documentation. https://go.dev/doc/, diakses pada 13 Juli 2023.
+- React. React Documentation. https://legacy.reactjs.org/docs/getting-started.html, diakses pada 13 Juli 2023.
+- GeeksForGeeks.Tarjan’s Algorithm to find Strongly Connected Components. https://www.geeksforgeeks.org/tarjan-algorithm-find-strongly-connected-components/, diakses pada 13 Juli 2023.
 
 <a name="contact"></a>
 
